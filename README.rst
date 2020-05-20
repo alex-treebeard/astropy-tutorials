@@ -39,3 +39,4 @@ Tutorial infrastructure
 For more information on the infrastructure that builds the tutorials, see the
 `infrastructure/developer <http://www.astropy.org/astropy-tutorials/dev.html#dev-page>`_
 section of the tutorials documentation.
+
